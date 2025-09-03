@@ -1,0 +1,47 @@
+{
+  "name": "warm-bowl-bliss-restaurant",
+  "version": "1.0.0",
+  "description": "A modern, responsive restaurant website with all essential features",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "client": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "restaurant",
+    "website",
+    "responsive",
+    "modern",
+    "food",
+    "dining",
+    "reservations",
+    "menu"
+  ],
+  "author": "Restaurant Website Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/warm-bowl-bliss-restaurant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/warm-bowl-bliss-restaurant/issues"
+  },
+  "homepage": "https://github.com/yourusername/warm-bowl-bliss-restaurant#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "nodemon": "^3.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
