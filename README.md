@@ -27,7 +27,7 @@ A modern, responsive restaurant website built with HTML, CSS, JavaScript, and No
 - **Backend API** - Node.js/Express server for handling reservations
 - **Database Storage** - MongoDB for storing reservation data
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
@@ -140,18 +140,10 @@ npm run dev
 ### Local Development
 Simply open `index.html` in a web browser for local development and testing.
 
-### Web Hosting
-Upload all files to your web hosting provider:
-1. Upload all files maintaining the directory structure
-2. Ensure `index.html` is in the root directory
-3. Test all functionality on the live site
 
-### CDN Integration
-The website uses CDN links for:
-- Font Awesome icons
-- Google Fonts (Playfair Display, Poppins)
 
-## 🎯 Future Enhancements
+
+##  Future Enhancements
 
 Potential features to add:
 - **Online Ordering System** - Full e-commerce integration
@@ -163,32 +155,11 @@ Potential features to add:
 - **SEO Optimization** - Meta tags and structured data
 - **Analytics Integration** - Google Analytics setup
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Support
 
-For questions or support:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation
 
-## 🎉 Credits
 
-- **Design**: Modern restaurant website template
-- **Icons**: Font Awesome
-- **Fonts**: Google Fonts
-- **Inspiration**: Best practices in restaurant web design
 
----
-
-**Built with ❤️ for the restaurant industry**
